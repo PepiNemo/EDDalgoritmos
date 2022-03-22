@@ -1,0 +1,20 @@
+Implementacion:
+
+Estructuras p1:
+1.- [x]Queues;
+2.- [x]Stacks
+8.- []Heap
+
+Ordenamiento:
+3.-[X]Selection sort
+4.-[X]Insertion sort
+5.-[]Shell sort 
+6.-[]Merge sort 
+7.-[]Quick sort 
+9.-[]Heap sort (Prioridad datos)
+
+Imagen de complejidad 355
+
+373
+
+
